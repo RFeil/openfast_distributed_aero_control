@@ -71,3 +71,4 @@ OpenFAST is being maintained and developed by researchers and software engineers
 * Envision Energy USA, Ltd
 * Brigham Young University
 * [Intel&reg; Parallel Computing Center (IPCC)](https://software.intel.com/en-us/ipcc)
+# openfast_distributed_aero_control
